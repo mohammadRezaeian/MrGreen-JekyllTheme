@@ -190,7 +190,7 @@ side_and_top_nav_buttons:
   - projects:
     icon: "fa fa-cog"
   - links:
-    icon: "fa fa-link"
+    icon: "fa fa-id-card"
   - about:
     icon: "fa fa-user-o"
 

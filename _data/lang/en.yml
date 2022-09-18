@@ -147,10 +147,10 @@ about:
 
 # for links layout
 links:
-  title: Links
-  button_name: Links
-  link_text: Web site
-  info_text: Info
+  title: Resume
+  button_name: Resume
+  link_text: Website
+  info_text: Information
 
 # for projects layout
 projects:
@@ -166,8 +166,8 @@ privacy-policy:
 # constants to be replaced for
 constants:
   greetings: Hello
-  welcome: Welcome
-  sample: Sample
+  # welcome: Welcome
+  sample: welcome to my personal website
 
 # for cookie consent
 cookie_consent:

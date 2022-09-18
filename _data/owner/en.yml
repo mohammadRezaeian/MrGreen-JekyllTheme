@@ -2,20 +2,20 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "Mohammad Rezaeian"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: "Welcome To My Personal site"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Your Name"
+name: "M.Rezaeian"
 
 # home page top header texts
 home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
-  top_header_line1: "$site_welcome"
+  #top_header_line1: "$sitewelcome"
   # if commented, top header will be a single line
-  top_header_line2: "$site_brand"
+  #top_header_line2: "$site_brand"
 
 # about page sub title
 about:
@@ -37,7 +37,7 @@ creative_commons:
   # 4. by-nc     Attribution-NonCommercial 4.0 International
   # 5. by-nc-nd  Attribution-NonCommercial-NoDerivatives 4.0 International
   # 6. by-nc-sa  Attribution-NonCommercial-ShareAlike 4.0 International
-  license_type: "by-sa"
+  license_type: "by-nc-sa"
 
 # seo meta this is needed for each language
 # If meta_description is not defined in front matter, it's created from (post / page) content,
@@ -48,9 +48,9 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
-  #- email: ""
-  #- linkedin: ""
+  - github: "MohammadRezaeian"
+  - email: "emailwork@riseup.net"
+  - linkedin: "www.linkedin.com/in/mohammad-rezaeian-170490151"
   #- twitter: ""
   #- instagram: ""
   #- youtube: ""
@@ -63,9 +63,9 @@ disqus_shortname: ""
 
 # if no id is provided, this feature will be disabled.
 # make sure your environment does not match with google.analytics.ignore in _data/conf/main.yml
-google_analytics_id: ""
+# google_analytics_id: ""
 
 # there are different ways to verify web page. One is adding this as meta into html.
 # make sure you set meta.google_site_verify: true in _data/conf/main.yml
 # make sure your environment does not match with google.site_verification.ignore in _data/conf/main.yml
-google_site_verification: ""
+# google_site_verification: ""

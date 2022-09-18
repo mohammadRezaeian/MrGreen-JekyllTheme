@@ -39,54 +39,122 @@ lng_pair: id_links
 ###########################################################
 page_data:
   main:
-    header: "Links"
-    info: "Your Links page description."
+    header: "Resume"
+    info: " "
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
+    - title: "Educations"
+      type: id_educations
       color: "gray"
-    - title: "Web Design"
-      type: id_webdesign
+
+    - title: "Experience"
+      type: id_experience
       color: "#F4A273"
-    - title: "Programming"
-      type: id_programming
+
+    - title: "Skills"
+      type: id_Skills
       color: "#62b462"
 
+    - title: "Favorites"
+      type: id_Favorites
+      color: "gray"
+
+    - title: "Projects"
+      type: id_projects
+      color: "#F4A273"
+      
   list:
-    -
-    # programming
-    - type: id_programming
-      title: "Stack OverFlow"
-      url: "https://stackoverflow.com/"
-      info: "Stack Overflow is a question and answer website for professional and enthusiastic programmers."
+    # id_educations
+    - type: id_educations
+      title: "B.S"
+      url: "https://garmsar.iau.ir"
+      info:  "Computer Science <b>B.S</b> IAU Garmsar Branch &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>2016-2018</b>"
 
-    # jekyiiliquid
-    - type: id_jekyiiliquid
-      title: "Jekyll"
-      url: "https://jekyllrb.com/"
-      info: "Transform your plain text into static websites and blogs."
-    - type: id_jekyiiliquid
-      title: "Jekyll Cheat Sheet"
-      url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
-      info: "There are so many Jekyll variables and filters to remember and it can be tricky to keep it all in your head. This cheat sheet serves as a quick reference of everything Jekyll can do."
-    - type: id_jekyiiliquid
-      title: "Liquid for Designers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
-      info: "Liquid for Designers wiki on GitHub"
-    - type: id_jekyiiliquid
-      title: "Liquid for Programmers"
-      url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
-      info: "Liquid for Programmers wiki on GitHub"
-    - type: id_jekyiiliquid
-      title: "Liquid Reference"
-      url: "https://shopify.dev/api/liquid/"
-      info: "Liquid is a template language created by Shopify and written in Ruby. It is now available as an open source project on GitHub"
+    - type: id_educations
+      title: "A.S"
+      url: "https://garmsar.iau.ir"
+      info:  "Computer Science <b>A.S</b> IAU Garmsar Branch &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>2016-2018</b>"
 
-    # webdesign
-    - type: id_webdesign
-      title: "W3Schools"
-      url: "https://www.w3schools.com/"
-      info: "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many more."
+    # Experience
+    - type: id_experience
+      title: "<a href=https://Unalink.net>Unalink</a>"
+      info:  "<b>C/C++ Programmer And SysAdmin</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<b>2021-2022</b><br></br>My Responsibilities  included writing programs under in Linux for Embedded  C like ESP32( with IDF) Or work with Protocols <b>GPS103</b> Or <b>MQTT</b> , our mainly used Technologies C++."
+
+    - type: id_experience
+      title: "<a href=https://dkap.ir/>DKApadana</a>"
+      info:  "<b>C/C++ Programmer</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>2021-2021</b><br></br>My Responsibilities  included writing programs under in Linux for Android , our mainly used technologies: <b>C++11</b> with Framework <b>Felgo</b>."
+
+    - type: id_experience
+      title: "<a href=https://hanasystemsco.com/>HANA</a>"
+      info:  "<b>C/C++ Programmer And DB Designer,SysAdmin</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>2019-2021</b><br><br/>My responsibilities included writing programs under Linux And Windows For Management UAV(Drone) , our mainly used technologies: <b>C++11</b> with <b>Qt</b> and write UI wih <b>QML</b> and work with various <b>Databases</b>."
+
+    - type: id_Skills
+      title: "C/C++"
+      info:  "<i>Proficient in:</i> Standard <b>C++11 , Qt , Felgo  </b> Framework and use <b>QML</b> for write UI Programs and use <b>IDF</b> write programs for ESP32 Hardware.<br></br><i>Familiar with:</i> <b>Multi-threading</b> under <b> C++11 </b>thread library.<br> </br>"
+
+    - type: id_Skills
+      title: "DB"
+      info:  "<i>Experienced with:</i> <b>Designing </b> database with <b>hand-written queries.</b>"
+
+    - type: id_Skills
+      title: "Gnu/Linux SysAdmin"
+      info:  "<i>Experienced with:</i> IPtables , DNS , Docker, Podman , Hardening Linux"
+
+    #Favorites    
+    
+    - type: id_Favorites
+      title: "Embedded Linux"
+      info: "I love Work with Embedded Linux Device. "
+
+    - type: id_Favorites
+      title: "IDF"
+      info: "I love doing things that few people do , Like use IDF For Develop ESP32"
+
+    - type: id_Favorites
+      title: "C++"
+      info: "I love working with C/C++ in any situation"
+
+    - type: id_Favorites
+      title: "Gnu\Linux"
+      info: "I love working with GNU/Linux in any situation"
+
+    - type: id_Favorites
+      title: "Reading Book"
+      info: "I like read a book about it before doing anything"
+      
+
+    - type: id_Favorites
+      title: "Developing"
+      info: "I'm very interested in spending some of the time to reading before start Develop"
+    
+# id_projects
+    - type: id_projects
+      title: "<b>DK Apadana</b>"
+      info: "Khoshe android application"
+
+    - type: id_projects
+      title: "<b>HANA</b>"
+      info: "<b>System Automation</b> and create other project For <b>Management UAV(Drone)</b> and write <b>Messenger</b>   for local network into company."
+
+    - type: id_projects
+      title: "<b>Personal(Qt)</b>"
+      info: "First Mirror Finder For Project Fedora (is Distribution Gnu/Linux)"
+
+    - type: id_projects
+      title: "<b>Personal(Qt)</b>"
+      info: "Music player"
+
+    - type: id_projects
+      title: "<b>Personal(BASH)</b>"
+      info: "Music player"
+
+    - type: id_projects
+      title: "<b>Personal(BASH)</b>"
+      info: "Script Music Finder for Distribution Gnu\Linux"
+
+    - type: id_projects
+      title: "<b>Personal(Fedora)</b>"
+      info: "Script For Install Package and Many configuration for Fedora"
+
 ---

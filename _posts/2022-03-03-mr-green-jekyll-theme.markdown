@@ -36,7 +36,3 @@ date: 2022-03-03 12:32:10 +0900
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-
-{%- capture readme_file -%}{%- include_relative _README.md -%}{%- endcapture -%}
-{%- assign tmp_content = readme_file | split: "<!-- readme -->" -%}
-{{tmp_content[1]}}

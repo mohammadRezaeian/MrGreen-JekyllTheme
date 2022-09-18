@@ -38,6 +38,6 @@ img: ":home-heading.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
 
-{{ website_info_text_second }}
+Welcome to my personal site I try to write about new Technology or Cool Works. <br> 
+I love to change.
