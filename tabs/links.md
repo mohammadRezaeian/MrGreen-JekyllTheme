@@ -148,7 +148,7 @@ page_data:
 
     - type: id_projects
       title: "<b>Personal(BASH)</b>"
-      info: "Script Music Finder for Distribution Gnu\Linux"
+      info: "Script Music Finder for Distribution Gnu/Linux"
 
     - type: id_projects
       title: "<b>Personal(Fedora)</b>"
