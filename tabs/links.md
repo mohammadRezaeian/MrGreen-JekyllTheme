@@ -69,25 +69,26 @@ page_data:
     - type: id_educations
       title: "B.S"
       url: "https://garmsar.iau.ir"
-      info:  "Computer Engineering-Software <b>B.S</b> IAU Garmsar Branch &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>2016-2018</b>"
+      info:  "Computer Engineering-Software <b>B.S</b> IAU Garmsar Branch  <b style=\"float: right;\">2018-2019</b>"
 
     - type: id_educations
       title: "A.S"
       url: "https://garmsar.iau.ir"
-      info:  "Computer Engineering-Software <b>A.S</b> IAU Garmsar Branch &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>2016-2018</b>"
+      info:  "Computer Engineering-Software <b>A.S</b> IAU Garmsar Branch <b style=\"float: right;\">2016-2018</b>"
 
     # Experience
     - type: id_experience
       title: "<a href=https://Unalink.net>Unalink</a>"
-      info:  "<b>Unalink: C/C++ Developer and SysAdmin</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<b>2021-2022</b><br></br>My responsibilities included developing programs in <b>Linux</b> and <b>Embedded C </b>mostly for <b>ESP32</b>  microcontrollers using <b>IDF</b> In addition to that, implementing hardware and internet protocols were among my tasks."
+      info:  "<b>C/C++ Developer and SysAdmin</b> <b style=\"float: right;\">2021-2022</b><br></br>
+      My responsibilities included developing programs in <b>Linux</b> and <b>Embedded C </b>mostly for <b>ESP32</b>  microcontrollers using <b>IDF</b> In addition to that, implementing hardware and internet protocols were among my tasks."
 
     - type: id_experience
       title: "<a href=https://dkap.ir/>DKApadana</a>"
-      info:  "<b>C/C++ Programmer</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>2021-2021</b><br></br>Throughout the course of my time in this company I did the development of Android apps using Linux. Moreover, <b>C++11 </b> with <b>Felgo</b> Framework were among the commonly used technologies."
+      info:  "<b>C/C++ Programmer</b> <b style=\"float: right;\">2021-2021</b><br></br>Throughout the course of my time in this company I did the development of Android apps using Linux. Moreover, <b>C++11 </b> with <b>Felgo</b> Framework were among the commonly used technologies."
 
     - type: id_experience
       title: "<a href=https://hanasystemsco.com/>HANA</a>"
-      info:  "<b>C/C++ Developer, DB Designer and SysAdmin</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>2019-2021</b><br><br/<b>Linux</b> and <b>Windows</b> development for Management UAV(Drone) Use-cases with the aid of <b>C++11</b>, <b>Qt</b>, <b>QML</b>, various <b>Database</b> technologies"
+      info:  "<b>C/C++ Developer, DB Designer and SysAdmin</b> <b style=\"float: right;\">2019-2021</b><br><br/<b>Linux</b> and <b>Windows</b> development for Management UAV(Drone) Use-cases with the aid of <b>C++11</b>, <b>Qt</b>, <b>QML</b>, various <b>Database</b> technologies"
 
     - type: id_Skills
       title: "C/C++"
