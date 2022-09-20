@@ -69,64 +69,60 @@ page_data:
     - type: id_educations
       title: "B.S"
       url: "https://garmsar.iau.ir"
-      info:  "Computer Science <b>B.S</b> IAU Garmsar Branch &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>2016-2018</b>"
+      info:  "Computer Engineering-Software <b>B.S</b> IAU Garmsar Branch &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>2016-2018</b>"
 
     - type: id_educations
       title: "A.S"
       url: "https://garmsar.iau.ir"
-      info:  "Computer Science <b>A.S</b> IAU Garmsar Branch &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>2016-2018</b>"
+      info:  "Computer Engineering-Software <b>A.S</b> IAU Garmsar Branch &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>2016-2018</b>"
 
     # Experience
     - type: id_experience
       title: "<a href=https://Unalink.net>Unalink</a>"
-      info:  "<b>C/C++ Programmer And SysAdmin</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<b>2021-2022</b><br></br>My Responsibilities  included writing programs under in Linux for Embedded  C like ESP32( with IDF) Or work with Protocols <b>GPS103</b> Or <b>MQTT</b> , our mainly used Technologies C++."
+      info:  "<b>Unalink: C/C++ Developer and SysAdmin</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;<b>2021-2022</b><br></br>My responsibilities included developing programs in <b>Linux</b> and <b>Embedded C </b>mostly for <b>ESP32</b>  microcontrollers using <b>IDF</b> In addition to that, implementing hardware and internet protocols were among my tasks."
 
     - type: id_experience
       title: "<a href=https://dkap.ir/>DKApadana</a>"
-      info:  "<b>C/C++ Programmer</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>2021-2021</b><br></br>My Responsibilities  included writing programs under in Linux for Android , our mainly used technologies: <b>C++11</b> with Framework <b>Felgo</b>."
+      info:  "<b>C/C++ Programmer</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>2021-2021</b><br></br>Throughout the course of my time in this company I did the development of Android apps using Linux. Moreover, <b>C++11 </b> with <b>Felgo</b> Framework were among the commonly used technologies."
 
     - type: id_experience
       title: "<a href=https://hanasystemsco.com/>HANA</a>"
-      info:  "<b>C/C++ Programmer And DB Designer,SysAdmin</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>2019-2021</b><br><br/>My responsibilities included writing programs under Linux And Windows For Management UAV(Drone) , our mainly used technologies: <b>C++11</b> with <b>Qt</b> and write UI wih <b>QML</b> and work with various <b>Databases</b>."
+      info:  "<b>C/C++ Developer, DB Designer and SysAdmin</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>2019-2021</b><br><br/<b>Linux</b> and <b>Windows</b> development for Management UAV(Drone) Use-cases with the aid of <b>C++11</b>, <b>Qt</b>, <b>QML</b>, various <b>Database</b> technologies"
 
     - type: id_Skills
       title: "C/C++"
-      info:  "<i>Proficient in:</i> Standard <b>C++11 , Qt , Felgo  </b> Framework and use <b>QML</b> for write UI Programs and use <b>IDF</b> write programs for ESP32 Hardware.<br></br><i>Familiar with:</i> <b>Multi-threading</b> under <b> C++11 </b>thread library.<br> </br>"
+      info:  "<i>Proficient in:</i> Standard <b>Standard C++1, Qt, Felgo Framework with the usage of QML in order to develop User Interface, and usage of IDF for firmware development."
 
     - type: id_Skills
       title: "DB"
-      info:  "<i>Experienced with:</i> <b>Designing </b> database with <b>hand-written queries.</b>"
+      info:  "<i>Experienced with:</i>Experienced with: Database design through hand-written queries."
 
     - type: id_Skills
-      title: "Gnu/Linux SysAdmin"
+      title: "GNU/Linux SysAdmin"
       info:  "<i>Experienced with:</i> IPtables , DNS , Docker, Podman , Hardening Linux"
 
     #Favorites    
     
     - type: id_Favorites
       title: "Embedded Linux"
-      info: "I love Work with Embedded Linux Device. "
+      info: "I love working with Embedded Linux devices"
 
     - type: id_Favorites
       title: "IDF"
-      info: "I love doing things that few people do , Like use IDF For Develop ESP32"
+      info: "Doing activities that few people are interested in attracts me, one of which is development using IDF"
 
     - type: id_Favorites
       title: "C++"
-      info: "I love working with C/C++ in any situation"
+      info: "Being busy with C/C++ is one of my main hobbies"
 
     - type: id_Favorites
-      title: "Gnu\Linux"
-      info: "I love working with GNU/Linux in any situation"
+      title: "GNU/Linux"
+      info: "One of my main interests is working with GNU/Linux in any situation"
 
     - type: id_Favorites
       title: "Reading Book"
-      info: "I like read a book about it before doing anything"
+      info: "Before starting any of my tasks, I would love to read books and prepare my mind"
       
-
-    - type: id_Favorites
-      title: "Developing"
-      info: "I'm very interested in spending some of the time to reading before start Develop"
     
 # id_projects
     - type: id_projects
