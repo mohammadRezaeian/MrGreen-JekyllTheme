@@ -4,12 +4,12 @@
 # only {url}, {title}, {text} are supported. {title} and {text} are the same.
 # keys need to match with share. Tooltip definitions in _data/lang/[language].yml file
 
-- twitter:
-  icon: "fa fa-twitter-square"
-  url: "https://twitter.com/intent/tweet?url={url}&text={title}"
-- facebook:
-  icon: "fa fa-facebook-square"
-  url: "https://www.facebook.com/sharer/sharer.php?u={url}"
+# # - twitter:
+# #   icon: "fa fa-twitter-square"
+# #   url: "https://twitter.com/intent/tweet?url={url}&text={title}"
+# - facebook:
+#   icon: "fa fa-facebook-square"
+#   url: "https://www.facebook.com/sharer/sharer.php?u={url}"
 - telegram:
   icon: "fa fa-telegram"
   url: "https://t.me/share/url?url={url}&text={text}"
@@ -21,4 +21,4 @@
   url: "mailto:?subject={title}&body={title}%20{url}"
 - copy_link:
   icon: "fa fa-link"
-  url: ""
+  url: "{url}"
