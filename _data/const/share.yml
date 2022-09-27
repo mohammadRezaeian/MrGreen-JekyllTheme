@@ -21,4 +21,4 @@
   url: "mailto:?subject={title}&body={title}%20{url}"
 - copy_link:
   icon: "fa fa-link"
-  url: ""
+  url: "domain{url}"
