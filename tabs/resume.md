@@ -92,7 +92,7 @@ page_data:
 
     - type: id_Skills
       title: "C/C++"
-      info:  "<i>Proficient in:</i> Standard <b>Standard C++1, Qt, Felgo Framework with the usage of QML in order to develop User Interface, and usage of IDF for firmware development."
+      info:  "<i>Proficient in:</i> Standard <b>Standard C++1, Qt, Felgo Framework with the usage of QML in order to develop User Interface, and usage of IDF for firmware development.</b> <br> <i>Familiar with:</i> <b>Multi-threading under C++11 thread library</b>"
 
     - type: id_Skills
       title: "DB"
