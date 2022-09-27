@@ -141,11 +141,7 @@ page_data:
     - type: id_projects
       title: "<b>Personal(Qt)</b>"
       info: "Music player"
-
-    - type: id_projects
-      title: "<b>Personal(BASH)</b>"
-      info: "Music player"
-
+    
     - type: id_projects
       title: "<b>Personal(BASH)</b>"
       info: "Script Music Finder for Distribution Gnu/Linux"
