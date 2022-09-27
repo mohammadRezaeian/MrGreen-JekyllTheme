@@ -95,8 +95,8 @@ post:
     link_copied: Link copied!
     tooltip:
       # keys need to match with _data/share.yml
-      twitter: Twitter
-      facebook: Facebook
+      # twitter: Twitter
+      # facebook: Facebook
       telegram: Telegram
       linkedin: LinkedIn
       email: Email
