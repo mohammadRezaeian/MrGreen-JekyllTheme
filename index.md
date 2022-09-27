@@ -39,5 +39,6 @@ img: ":homePage.jpg"
 
 {%- include util/auto-content-generator.liquid -%}
 
-Welcome to my personal site I try to write about new Technology or Cool Works. <br> 
-I love to change.
+<b>Welcome to my personal site.</b> <br>
+<b>I try to write about new Technologies or Cool Works.</b> <br>
+<b>I love changing.</b>
