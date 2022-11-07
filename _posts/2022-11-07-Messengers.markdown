@@ -23,18 +23,18 @@ published: true
 
 <h1>Which Protocols  Messengers  we must use with which Clients is better than other for privacy</h1>
 
-**Android , IOS , windows , Gnu\Linux:** <br></br>
+**Android , IOS , windows , Gnu\Linux:** <br><br>
 <h2>what's Matrix</h2> 
 A <b>decentral</b> protocol  means you can use many <b>instances</b> or run a <b>personal</b> instance and connect it to another instance.<br>
 <h3>Cryptography  status</h3> End-to-End (E2E) 
-<br></br>
+<br><br>
 <h3>Cryptography usage</h3> Ed25519 fingerprint key pair , Curve25519 identity key pair ,  Curve25519 one-time keys , Megolm encryption keys , Ed25519 Megolm signing key pair  <br>
 <a href="https://matrix.org/docs/guides/end-to-end-encryption-implementation-guide/">More information!</a> 
-<br></br>
+<br><br>
 <h3>some Instance</h3> Matrix,  Mozilla, or many instance Matrix, and we can run a personal instance and can all be connected to other instances.<br>
 <a href="https://joinmatrix.org/servers/">List Public Instance</a>
 
-<br></br>
+<br><br>
 <h3>list clients</h3>
 
 **android:** Element , schilidichat and many others<br>
@@ -46,13 +46,13 @@ A <b>decentral</b> protocol  means you can use many <b>instances</b> or run a <b
 
 <h2>what's XMPP</h2> 
 
-decentral **protocol**  means you can use many **instances** or run a **personal instance** and connect it to another instance.<br></br>
+decentral **protocol**  means you can use many **instances** or run a **personal instance** and connect it to another instance.<br><br>
 <h3>Cryptography  status</h3> End-to-End (E2E)
-<br></br>
+<br><br>
 <h3>Cryptography usage</h3> can select which algorithm use in chats OMEOM , OpenPGP<br>
 <h3>Which server should we use, and which one is better in terms of security?</h3>
 <a href="https://xmpp.love/">list Public Servers with security Compershive</a>
-<br></br>
+<br><br>
 
 **android:** conversation , blabbler<br>
 **windows:**  dino , conversation , blabbler <br>
