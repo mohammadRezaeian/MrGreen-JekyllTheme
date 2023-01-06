@@ -25,7 +25,7 @@ published: true
 
 <h3>what's Gstreamer</h3> 
 <b>First of Let me  Ask do you know what's FFmpeg ?</b>
-<br>
+<br/>
 <b>if your answer is yes</b>
 <br/>
 Now you know what's Gstreamer; because of many works is like FFmpeg
@@ -47,7 +47,8 @@ because GPU is very faster than CPU and resource is very low.
 
 <h4>Gstreamer Collections</h4>
 <b>Gstreamer plugins convert into Four Collections:</b>
-</br>
+<br/>
+
 
 <a href="#gst-plugins-base">gst-plugins-base </a><br/>
 <a href="#gst-plugins-good">gst-plugins-good </a><br/>
