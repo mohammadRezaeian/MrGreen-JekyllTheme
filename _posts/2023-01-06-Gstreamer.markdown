@@ -46,10 +46,8 @@ because GPU is very faster than CPU and resource is very low.
 <h3> ok now let's go to know better than Gstreamer</h3>
 
 <h4>Gstreamer Collections</h4>
-<br/>
 <b>Gstreamer plugins convert into Four Collections:</b>
-<br></br>
-
+</br>
 
 <a href="#gst-plugins-base">gst-plugins-base </a><br/>
 <a href="#gst-plugins-good">gst-plugins-good </a><br/>
