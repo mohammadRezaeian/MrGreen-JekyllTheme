@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: Feauture Scalling
-title: "How to scalling A Size To Another Size!"
+title: "how to rescalling a point to another scale!"
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -39,11 +39,11 @@ published: true
 
 
 
-<h1><b>Hi
-how to change scalling a point to another scall</b> </h1>
+<h1><b>
+how to  rescalling a point to another scale</b> </h1>
 
 <b>maybe you ask why i write this?</b> <br>
-I was trying write a generator number with cpp and i wanted send it to client and create a sine wave use with them points
+I was trying write a generator number with cpp and i wanted send it to client and create a sine wave use with the points
 you can see it one my github <a href="https://github.com/mohammadRezaeian/serverTCPCPPSTL">Server TCP Use API Kernel</a>
 
 <br>
@@ -61,28 +61,28 @@ to know these
 <br>
 <li>What's your Range Maximum Number Input</li>
 <br>
-<img src="https://latex.codecogs.com/svg.image?\Large&space;xMax"/>
+<img src="https://latex.codecogs.com/svg.image?\Large&space;InputRangeMax"/>
 <br>
 <br>
 <li>What's your Range Minimum Number Input</li>
 <br>
-<img src="https://latex.codecogs.com/svg.image?\Large&space;xMin"/>
+<img src="https://latex.codecogs.com/svg.image?\Large&space;InputRangeMin"/>
 <br>
 <br>
 
 <li>What's your Range Maximum Scalling (width or height)</li>
 <br>
-<img src="https://latex.codecogs.com/svg.image?\Large&space;yMax"/>
+<img src="https://latex.codecogs.com/svg.image?\Large&space;FinalScaleMax"/>
 <br>
 <br>
 <li>What's your Range Minimum Scalling (width or height)</li>
 <br>
-<img src="https://latex.codecogs.com/svg.image?\Large&space;yMin"/>
+<img src="https://latex.codecogs.com/svg.image?\Large&space;FinalScaleMin"/>
 <br>
 <br>
 <h3> <b>And Formullar is</b><h3>
 <br>
-<img src="https://latex.codecogs.com/svg.image?\Large&space;\frac{y}{xMax-xMin}&space;=&space;\frac{y\rq}{yMax-yMin}&space;"/>
+<img src="https://latex.codecogs.com/svg.image?\Large&space;\frac{y}{InputRangeMax-InputRangeMin}&space;=&space;\frac{y\rq}{FinalScaleMax-FinalScaleMin}&space;"/>
 <br>
 <br>
 Imagine Number is number 30
@@ -90,16 +90,16 @@ ok let's go:<br>
 <img src="https://latex.codecogs.com/svg.image?\Large&space;y=30"/>
 <br>
 <br>
-<img src="https://latex.codecogs.com/svg.image?\Large&space;xMax=60"/>
+<img src="https://latex.codecogs.com/svg.image?\Large&space;InputRangeMax=60"/>
 <br>
 <br>
-<img src="https://latex.codecogs.com/svg.image?\Large&space;xMin=0"/>
+<img src="https://latex.codecogs.com/svg.image?\Large&space;InputRangeMin=0"/>
 <br>
 <br>
-<img src="https://latex.codecogs.com/svg.image?\Large&space;yMax=540"/>
+<img src="https://latex.codecogs.com/svg.image?\Large&space;FinalScaleMax=540"/>
 <br>
 <br>
-<img src="https://latex.codecogs.com/svg.image?\Large&space;yMin=0"/>
+<img src="https://latex.codecogs.com/svg.image?\Large&space;FinalScaleMin=0"/>
 <br>
 <br>
 <img src="https://latex.codecogs.com/svg.image?\Large&space;\frac{30}{60-0}&space;\div&space;\frac{y\rq}{540-0}&space;&space;=&space;\frac{30\times540}{60}&space;=&space;{y\rq}&space;is:&space;270"/>
