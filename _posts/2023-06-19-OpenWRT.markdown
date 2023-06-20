@@ -1,0 +1,86 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: OpenWRT
+title: "Introduction OpenWRT!"
+
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+author: Mohammad
+# multiple category is not supported
+category: Linux
+# multiple tag entries are possible
+tags: [Linux, Network , Security]
+# thumbnail image for post
+img: ":OpenWrt.svg"
+# disable comments on this page
+comments_disable: false
+
+# publish date
+date: 2023-06-20 11:07:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-01-01 10:04:30 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+published: true
+---
+
+
+
+<h1><b>Hi
+I writing this document because I think OpenWRT is the best Alternative for firmware Close Source in Modems </b> </h1>
+
+<b>maybe you ask why?</b> <br>
+because now many devices can't update or company you bought the modem from it doesn't has support for updating 
+or others reasons 
+or think this reason is  very important for me : <b>we want better security and config firewall</b>
+or you wan't run many services for manage your network home like: run a nextcloud for acess out local network, run AdgaurdHome for manage dns resolved,
+configuration firewall for set acess clients or connect out Local Network to Local Network
+or open port or forward port to specifice client
+and many others services or works.
+trust me it's amazing 
+
+<h3>ok now let's go </h3>
+
+first of we must check it's has support from we device or not
+for check it we must check this address:
+
+https://openwrt.org/toh/views/toh_available_16128
+
+ok 
+<h3>Maybe now you confused for select a device because There are too many of them </h3>
+
+ok i helping you for find a device
+
+first of we must let's pay attention it's support <b>final version OpenWRT or not</b><br>
+second we must to know it's has <b>Support all technology  we need</b>
+like: how many support <b>Connection ethernet</b><br>
+and it's has support <b>SimCard</b> if it yes which porotocls it's has support like: 5G, 4G, 3G <br>
+which <b>porotocol</b> it's has support for <b>Bandwith</b> like:  6GH A(wifi), 6GH(Wifi), 5GH(Wifi), 2.5GH <br>
+which <b>Security</b>  it's has support: AES256, BlueFish or Others<br>
+chipset wifi it's has support <b>DualBand</b> or not: like connect to wifi or hotspot <br>
+
+i thinking thoses are very important And I will try to add more in the future
+<br>
+
+
+<h4>what's my device?</h4>
+
+i use a rpi4 because i don't have money for buy a new device 
+
+
+<i>thank you for reading this post
+I wish you to have a nice times</i>
+<i>connection with me: emailwork@riseup.net</i>
