@@ -53,7 +53,7 @@ layout: default
     </li>
   {% endfor -%}
     <li>
-      {%- include multi_lng/get-page-by-layout.liquid layout = 'archives' -%}
+      {%- include multi_lng/get-page-by-layout.liquid layout = 'blog' -%}
       <a href="{{ site.baseurl }}{{ layout_page_obj.url }}">{{ site.data.lang[lng].home.new_posts_show_more_button }}</a>
     </li>
   </ul>
